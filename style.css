@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2? family= Kurale & display=swap');
+
+body{
+	background-image: linear-gradient(rgba(16, 16, 16, 0.6),rgba(16, 16, 16, 0.8)),url(cuerno.jpg);
+	background-color: black;
+	font-family: 'Kurale', serif;
+	color: ghostwhite;
+	font-style: italic;
+	width: 99%;
+	font-size: 20px;
+	margin: 2%;
+	padding: 10px;
+	text-align: center;
+	
+}
+header,footer{
+	background-image: linear-gradient(rgba(16, 16, 16, 0.6),rgba(16, 16, 16, 0.8)),url(banner.jpeg);
+	background-position: center;
+	width: 95%;
+	border-style: inset;
+	border-color: greenyellow;
+	border-width: 6px;
+	background-color:forestgreen;
+	font-size: 30px;
+	font-family: courier;
+	margin: 5px;
+	padding: 10px;
+	height: 200px;
+}
+
+a{
+	text-decoration: none;
+	font-style: normal;
+	border-style: outset;
+	border-radius: 5px;
+	color: green;
+	font-size: 25px;
+	padding: 10px;
+	background-color: black;
+	cursor: pointer;
+}
+
+aside{
+	border-style: solid;
+	background-color: antiquewhite;
+	color: black;
+	width: 20%;
+	display: inline-block;
+}
+
+main{
+	width: 68%;
+	display: inline-block;
+	}
+
+h3{
+	font-size: 25px;
+}
+
+.integran{
+	color: lightblue;
+}
+
+article{
+	border-top-color: lightyellow;
+	margin: 5px;
+	padding: 10px;
+	}
+nav{
+	margin: 50px;
+	padding: 10px;
+	display: inline-block;
+}
+.iphonn{
+	padding: 200 px;
+	margin: 50 px;
+	display: block;
+}
